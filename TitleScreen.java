@@ -50,7 +50,7 @@ public class TitleScreen extends World
         Label label = new Label("Press <space> to Start", 20);
         addObject(label,318,194);
         label.setLocation(302,211);
-        Label label2 = new Label("Use <- and -> to move", 20);
+        Label label2 = new Label("Use \u2190 and \u2192 to move", 20);
         addObject(label2,357,263);
         label2.setLocation(303,247);
         label2.setLocation(315,284);
